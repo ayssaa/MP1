@@ -1,5 +1,5 @@
-
 #Problema: Calorias
+
 #Entrada
 calorias_recomendadas = int(input())
 calorias_consumidas = 0

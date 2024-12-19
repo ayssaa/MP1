@@ -1,5 +1,5 @@
-
 #Problema: Soletrando
+
 #Entrada
 palavra_escolhida = str(input())
 palavra_soletrada_certo = []

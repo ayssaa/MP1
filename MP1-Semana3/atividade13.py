@@ -1,4 +1,5 @@
 #Problema: CPF
+
 #Entrada
 cpf_normal = str(input())
 cpf_certo = cpf_normal.replace(".","").replace("-","")
@@ -22,5 +23,3 @@ elif contando != 11:
   print("SIZE ERROR")
 else:
   print(cpf_certo)
-
-# Sei que fiz gambiarra, mas só consegui pensar nessa solução :(

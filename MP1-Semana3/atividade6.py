@@ -9,3 +9,4 @@ ultimo = int(input())
 print("Tabuada do", tabuada, "de", primeiro, "até", ultimo)
 for alg in range(primeiro, ultimo + 1):
   print(tabuada, "x", alg, "=", alg * tabuada)
+  

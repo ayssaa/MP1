@@ -11,3 +11,4 @@ elif valor1 == valor2 and valor1 == "F":
   print("FF")
 else:
   print("?")
+  

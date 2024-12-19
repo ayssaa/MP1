@@ -1,4 +1,5 @@
 #Problema: Soletrando até acertar dessa vez
+
 #Entrada
 palavra_escolhida = str(input())
 palavra_soletrada_certo = []
@@ -20,3 +21,4 @@ while True:
     if palavra_soletrada_crianca == palavra_soletrada_certo:
       print("8-)")
       break
+  

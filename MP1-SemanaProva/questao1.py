@@ -1,5 +1,5 @@
-
 #Prova: Dolar 1
+
 #Entrada
 valor = float(input())
 taxa_conversao = float(input())

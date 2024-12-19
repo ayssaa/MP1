@@ -1,4 +1,5 @@
 #Prova: Dolar 4
+
 #Entrada
 lista_taxas = []
 

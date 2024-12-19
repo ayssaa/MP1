@@ -1,4 +1,3 @@
-
 #Problema: Porcentagem com professora
 
 #Entrada

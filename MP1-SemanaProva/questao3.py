@@ -1,4 +1,5 @@
 #Prova: Dolar 3
+
 #Entrada
 periodo = int(input())
 taxas = []

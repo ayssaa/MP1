@@ -1,4 +1,3 @@
-
 #Problema: Receber dois valores inteiros, calcular.
 
 # Entrada

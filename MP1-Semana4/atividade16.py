@@ -1,5 +1,5 @@
-
 #Problema: Dado strings, imprimir quantas foram entradas
+
 #Entrada
 quantidade_string = 0
 string = ""

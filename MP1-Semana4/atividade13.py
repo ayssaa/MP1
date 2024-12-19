@@ -1,4 +1,5 @@
 #Problema: Dado um número de vagas, imprimir quantas vagas sobram ou faltam
+
 #Entrada
 numero_vagas = int(input())
 nome_aluna = ""
@@ -20,3 +21,4 @@ if numero_vagas < quantidade_aluna:
   print("vagas faltando:", vagas_faltando)
 if numero_vagas == quantidade_aluna:
   print("vagas sobrando:", 0)
+  

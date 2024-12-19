@@ -1,4 +1,3 @@
-
 #Problema: Dado dois valores, realizar a divisão inteira e achar resto.
 
 # Entrada

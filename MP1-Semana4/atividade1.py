@@ -1,4 +1,5 @@
 #Problema: Transformando entradas de base 2 em saidas de base 10
+
 #Entrada
 valor1 = int(input())
 valor2 = int(input())

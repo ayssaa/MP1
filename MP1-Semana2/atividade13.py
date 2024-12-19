@@ -27,3 +27,4 @@ elif "%" == opr:
 elif "**" == opr:
   resul = valor1 ** valor2
   print(resul)
+  

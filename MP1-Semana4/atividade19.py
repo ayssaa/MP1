@@ -1,4 +1,5 @@
 #Problema: Newton... De novo!?!?
+
 #Entrada e variaveis
 massa = float(input())
 aceleracao_inicial = float(input())

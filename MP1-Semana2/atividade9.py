@@ -15,3 +15,4 @@ elif placa == "7" or placa == "8":
   print("quinta-feira")
 elif placa == "9" or placa == "0":
   print("sexta-feira")
+  

@@ -1,4 +1,5 @@
 #Problema: Joaninha de brinquedo!
+
 #Entrada
 bateria = int(input())
 avancar = 1

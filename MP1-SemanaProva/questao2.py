@@ -1,4 +1,5 @@
 #Prova: Dolar 2
+
 #Entrada
 taxa_americano = float(input())
 taxa_canadense = float(input())

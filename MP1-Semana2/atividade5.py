@@ -1,4 +1,3 @@
-
 #Problema: dado três valores, imprimir se o último está incluso nos outros
 
 #Entrada
@@ -13,3 +12,4 @@ elif valor2 <= valor3 <= valor1:
   print("True")
 else:
   print(False)
+  

@@ -1,5 +1,5 @@
-
 #Problema: Dado um nome e uma variavel, remover os caracteres da variavel do nome
+
 #Entrada
 dados_aluna = str(input())
 substituir = str(input())

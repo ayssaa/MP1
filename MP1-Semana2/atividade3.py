@@ -10,3 +10,4 @@ if valorb >= totalc:
   print("se você comprar tudo o saldo será:", saldo)
 else:
   print("seu saldo é insuficiente para essa compra")
+  

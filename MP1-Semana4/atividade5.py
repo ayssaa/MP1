@@ -1,4 +1,5 @@
 #Problema: programa comilao :D
+
 #Entrada
 parada = str(input())
 contador_linhas = 0

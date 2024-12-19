@@ -1,4 +1,3 @@
-
 #Problema: Dados dois pontos no espaço, qual a distância entre eles
 
 #Entrada

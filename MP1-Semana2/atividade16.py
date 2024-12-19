@@ -1,7 +1,9 @@
-#Problema: Dado dois valores, descobrir qual é o maior 
+#Problema: Dado dois valores, descobrir qual é o maior
+
 #Entrada
 valor1 = int(input())
 valor2 = int(input())
+
 #Saida
 if valor1 > valor2:
   print("maior:", valor1)
@@ -9,3 +11,4 @@ if valor1 > valor2:
 else:
   print("maior:", valor2)
   print("menor:", valor1)
+  

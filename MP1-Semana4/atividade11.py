@@ -1,5 +1,5 @@
-
 #Problema: Verificar quantas taxas atuais de desmatamento foram abaixo de uma taxa definida
+
 #Entrada
 pior_taxa = float(input())
 contagem_melhores_taxas = 0

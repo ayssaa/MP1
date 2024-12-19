@@ -6,3 +6,4 @@ valor = int(input())
 #Saida
 for alg in range(1,12):
   print(alg * valor)
+  

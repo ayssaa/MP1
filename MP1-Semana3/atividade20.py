@@ -1,4 +1,5 @@
 #Problema: Resiliência
+
 #Entrada
 lista = int(input())
 soma = 0

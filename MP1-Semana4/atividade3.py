@@ -1,4 +1,5 @@
 #Problema: Dado um valor disponivel, permitir adição de itens sem estourar o limite
+
 #Entrada
 valor_disponivel = int(input())
 valor_itens = 0

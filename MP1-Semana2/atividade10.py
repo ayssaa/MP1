@@ -1,4 +1,3 @@
-
 #Problema: Dado uma letra, verificar qual número representa
 
 #Entrada
@@ -19,3 +18,4 @@ elif letra == "D":
   print("500")
 elif letra == "M":
   print("1000")
+  

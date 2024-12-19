@@ -1,4 +1,3 @@
-
 #Problema: dado uma idade, imprimir uma resposta
 
 #Entrada

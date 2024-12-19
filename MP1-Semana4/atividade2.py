@@ -1,4 +1,5 @@
 #Problema: Dado valores em base 10, imprimir o dobro do que ele representa
+
 #Entrada
 milhar = int(input())
 centena = int(input())

@@ -1,4 +1,5 @@
 #Problema: Um placar de volei digital!
+
 #Variaveis do placar
 placar_time1 = 0
 placar_time2 = 0

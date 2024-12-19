@@ -9,3 +9,4 @@ if valorb >= totalc:
   print("pode comprar tudo")
 else:
   print("saldo insuficiente")
+  

@@ -1,4 +1,3 @@
-
 #Problema: Dado um valor, imprimir os pares
 
 #Entrada
@@ -11,3 +10,4 @@ if valor % 2 != 0:
 #Saida
 for alg in range(0, (valor + 1), 2):
   print(alg)
+  

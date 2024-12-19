@@ -9,3 +9,4 @@ if valor == 0:
 else:
   for alg in range(1):
     print(valor * "*")
+    

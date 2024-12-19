@@ -1,5 +1,5 @@
-
 #Problema: Imprimir a entrada até uma parada acontecer
+
 #Entrada e Saida
 string = ""
 
@@ -10,3 +10,4 @@ while True:
     break
   if string != "":
     print(string)
+    

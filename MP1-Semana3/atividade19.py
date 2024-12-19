@@ -1,5 +1,5 @@
-
 #Problema: Civis e militares
+
 #Entrada
 baixas = int(input())
 civil = 0

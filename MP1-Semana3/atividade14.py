@@ -1,4 +1,5 @@
 #Problema: Dado numeros, verificar se eles se repetem
+
 #Entrada
 quantidade_algarismos = int(input())
 algarismos = []

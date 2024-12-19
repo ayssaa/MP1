@@ -1,4 +1,3 @@
-
 #Problema: Dado um valor, imprimir uma contagem iniciando do 1
 
 #Entrada

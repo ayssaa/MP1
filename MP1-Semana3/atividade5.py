@@ -7,3 +7,4 @@ valor = int(input())
 print("Tabuada do", valor)
 for alg in range(1,12):
   print(valor, "x", alg, "=", alg * valor)
+  

@@ -1,5 +1,5 @@
-
 #Problema: Dado um valor minimo, imprimir uma sobre e o total de um somatorio
+
 #Entrada
 minimo = int(input())
 somatorio_total = 0

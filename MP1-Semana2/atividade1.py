@@ -14,3 +14,4 @@ elif cor == "branco":
   print("faixa")
 else:
   print("não tem essa cor")
+  

@@ -1,4 +1,3 @@
-
 #Problema: dado uma placa, falar qual é o último dígito
 
 #Entrada

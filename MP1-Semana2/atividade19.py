@@ -13,3 +13,4 @@ elif caractere in especial:
   print("especial")
 else:
   print("outro")
+  

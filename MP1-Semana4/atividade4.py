@@ -1,4 +1,5 @@
 #Problema: Descobrir quanto de memoria esse codigo usa!
+
 #Entrada
 memoria_utilizada = 0
 maior_memoria_utilizada = []

@@ -1,5 +1,5 @@
-
 #Problema: Dado uma resposta do sensor, informar se um usuário está ativo ou sedentário
+
 #Entrada
 parado = 1
 movimento = 0

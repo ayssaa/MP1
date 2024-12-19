@@ -1,5 +1,5 @@
-
 #Problema: Imprimir quantos accepts uma aluna conseguiu
+
 #Entrada
 accept = 0
 resposta = ""
